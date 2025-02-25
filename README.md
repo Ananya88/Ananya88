@@ -8,5 +8,5 @@
       :email: ananyachaurasia2020@gmail.com
 
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I hope to sing in public someday :bowtie: :wink:
+- ⚡ Fun fact: I hope to dance in public someday :bowtie: :wink:
 
