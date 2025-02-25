@@ -1,12 +1,16 @@
 ### Hi there 👋
-## I am Ananya Chaurasia :octocat:
-## A final year Electronics and Communication Engineering(ECE) student at NSIT,Delhi.
+## I am Ananya Chaurasia :octocat:, 
+## A graduate in Electronics and Communication Engineering(ECE) from Netaji Subhas Institute of Technology(NSIT, now NSUT),New Delhi.
+## <p align="center"> A budding full-stack developer in the making 💻🚀</p>
 
-- 🔭 I’m currently working on my coding skills and learning full stack web development
-- 💬 Ask me about DSA , analytics at current and web development(someday! :grin: :sweat_smile:)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ananya-chaurasia/)      , [Instagram](https://www.instagram.com/_ananya_202/) , 
-      :email: ananyachaurasia2020@gmail.com
+- 🔭 Currently: Diving deep into full-stack web development and enhancing my coding skills
+- 🌱 Learning: Building my expertise in front-end & back-end technologies—projects coming soon!
+- 💬 Ask me about: Data Structures & Algorithms, Analytics, and, of course, web development (soon-to-be expert! :grin:)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ananya-chaurasia/) | 
+      email: ananyachaurasia2020@gmail.com
 
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I hope to dance in public someday :bowtie: :wink:
+  
+I’m excited to share my learning journey through projects here—stay tuned for updates! 🌟
 
