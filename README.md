@@ -4,7 +4,7 @@
 ## <p align="center"> A budding full-stack developer in the making 💻🚀</p>
 
 - 🔭 Currently: Diving deep into full-stack web development and enhancing my coding skills
-- 🌱 Learning: Building my expertise in front-end & back-end technologies—projects coming soon!
+- 🌱 Learning: Building my expertise in front-end & back-end technologies
 - 💬 Ask me about: Data Structures & Algorithms, Analytics, and, of course, web development (soon-to-be expert! :grin:)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ananya-chaurasia/) | 
       email: ananyachaurasia2020@gmail.com
